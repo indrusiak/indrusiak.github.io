@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Prof Leandro Soares Indrusiak"
 title_separator          : "-"
 name                     : &name "Leandro Soares Indrusiak"
-description              : &description "personal description"
+description              : &description "Professor of Distributed Systems"
 url                      : https://indrusiak.github.io
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "indrusiak/indrusiak.github.io"
