@@ -21,7 +21,7 @@ repository               : "indrusiak/indrusiak.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "indrusiak_photo.jpg"
   name             : "Leandro Soares Indrusiak"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "Professor of Distributed Systems"
