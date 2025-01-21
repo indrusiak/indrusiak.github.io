@@ -23,8 +23,8 @@ Research interests
 
 Research projects
 ======
-* Enhancing real-time performance in digital communications using machine learning (ARDC, 2025-2029, principal investigator)
-* Identifying and Optimising Worst-Case Latency Bounds in On-Chip Network Interconnects (Arm Ltd., 2024-2028, principal investigator)
+* Enhancing real-time performance in digital communications using machine learning (ARDC, 2025-2029), principal investigator
+* Identifying and Optimising Worst-Case Latency Bounds in On-Chip Network Interconnects (Arm Ltd., 2024-2028), principal investigator
 * SAFIRE - Cloud-based Situational Analysis for Factories providing Real-Time Reconfiguration Services (EU H2020, 2016-2019), principal investigator
 * MCCps - Mixed Criticality Embedded Systems on Many-Core Platforms (EPSRC, 2016-2019), co-investigator
 * DreamCloud - Dynamic Resource Allocation in Embedded and High-Performance Computing (EU FP7, 2013-2016), principal investigator and technical leader
