@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Prof Leandro Soares Indrusiak"
+title                    : "LSI Lab"
 title_separator          : "-"
 name                     : &name "Leandro Soares Indrusiak"
 description              : &description "Professor of Distributed Systems"
