@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-======
+
 LSI Lab's research addresses the problems of allocating and managing workload onto large-scale interconnected systems in such a way that the workload's non-functional requirements are met. Typically, it focusses on application-specific computational workloads allocated over networked computing infrastructure, but some projects have also addressed workload management in manufacturing and transport systems. We are particularly interested in two types of non-functional workload requirements that are increasingly difficult to optimise as system complexity increases: real-time performance and energy dissipation. To address such problems, we must make contribution in distinct areas of research: application workload profiling; system modeling and simulation; estimation of real-time performance and energy dissipation; and resource allocation algorithms and heuristics.
 
 
