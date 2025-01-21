@@ -33,7 +33,7 @@ Full doctoral genealogy at the [Mathematics Genealogy Project](https://www.genea
 
 Former post-doctoral research associates
 ======
-* Dr Piotr Dziurzanski (2014-2016, EU FP7 DreamCloud Project; 2017-2019, EU H2020 SAFIRE Project))
+* Dr Piotr Dziurzanski (2014-2016, EU FP7 DreamCloud Project; 2017-2019, EU H2020 SAFIRE Project)
 * Dr James Harbin (2012-2013, EPSRC LowPowNoC Project; 2013-2016 EPSRC MCC Project, 2016-2019 EPSRC MCCPS Project)
 * Dr Rob Davis (2018-2019, EU H2020 SAFIRE Project)
 * Dr Shuai Zhao (2018-2019, EU H2020 SAFIRE Project)
