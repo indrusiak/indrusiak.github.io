@@ -28,6 +28,7 @@ Former doctoral students
 * 2014 - Dr Ipek Çaliskanelli, examined by Iain Bate and Utz Roedig (Lancaster University), went on to work at University of Liverpool, UK.
 * 2011 - Dr Leandro Heleno Moller - co-supervised with Manfred Glesner at TU Darmstadt, went on to work at Mobotix AG, Germany.
 * 2010 - Dr Luciano Copello Ost - co-supervised with Fernando Moraes at PUCRS, went on to work at LIRMM - University of Montpellier, France.
+
 Full doctoral genealogy at the [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=200348).
 
 Former post-doctoral research associates
