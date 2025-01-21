@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Prof Leandro Soares Indrusiak - University of Leeds"
+title: "LSI Lab - Prof Leandro Soares Indrusiak"
 author_profile: true
 redirect_from: 
   - /about/
