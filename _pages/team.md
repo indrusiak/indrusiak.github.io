@@ -18,7 +18,7 @@ Doctoral students
 
 Former doctoral students
 ======
-* 2023 - Dr Thamer Alrefai - examined Dimitris Kolovos and Michael Short (University of Teeside), went on to work at Taibah University, Saudi Arabia.
+* 2023 - Dr Thamer Alrefai - examined by Dimitris Kolovos and Michael Short (University of Teeside), went on to work at Taibah University, Saudi Arabia.
 * 2018 - Dr Yunfeng Ma - examined by Alan Burns and Wim Vanderbauwhede (University of Glasgow), went on to work at AOSSCI Technology, China.
 * 2017 - Dr Hashan Roshantha Mendis - examined by Chris Crispin-Bailey and Bashir Al-Hashimi (University of Southampton), went on to work at Dell Technologies Inc, Taiwan.
 * 2015 - Dr Hashem Ghazzawi - co-supervised with Iain Bate, examined by Jon Timmis and Paul Ezhilchelvan (Newcastle University), went on to work at Rapita Systems Ltd, UK.
