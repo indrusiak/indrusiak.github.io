@@ -12,7 +12,7 @@ redirect_from:
 
 Doctoral students
 ======
-* Ana Marcovic 
+* Ana Markovic 
 * Andras Pinter
 * Yue Zhu
 
