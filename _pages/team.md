@@ -14,6 +14,7 @@ Doctoral students
 ======
 * Ana Markovic 
 * Andras Pinter
+* Miguel Boing
 * Yue Zhu
 
 Former doctoral students
