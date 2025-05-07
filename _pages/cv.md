@@ -35,6 +35,10 @@ Work experience
 * 2000-2003: Research Assistant
   * Institute of Microelectronic Systems, Technische Universitaet Darmstadt
 
+* 1998-2000: Tenured Assistant Professor
+  * Departamento de Informatica, Pontificia Universidade Catolica do Rio Grande do Sul
+  
+
 Curriculum vitae
 ======
 * Full academic CV (PDF)
