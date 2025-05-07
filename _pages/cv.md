@@ -41,6 +41,6 @@ Work experience
 
 Curriculum vitae
 ======
-* Full academic CV (PDF)
-* LinkedIn page
+* [Full academic CV](/files/IndrusiakCV.pdf) (PDF)
+* [LinkedIn page](https://www.linkedin.com/in/indrusiak/)
 
