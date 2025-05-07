@@ -1,9 +1,15 @@
- ---
- permalink: /personal
- redirect_from: 
+---
+layout: archive
+title: "Personal"
+permalink: /personal/
+author_profile: true
+redirect_from:
    - /personal/
    - /personal.html
- ---
+---
+
+{% include base_path %}
+ 
  
 - Film ratings [at IMDB](https://www.imdb.com/user/ur4768245/ratings/?sort=top_rated%2Cdesc) 
 - Photos [at Flickr](https://www.flickr.com/photos/indrusiak/)
