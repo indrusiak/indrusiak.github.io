@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * Since 2023: Professor of Distributed Systems
-  * School of Conputer Science, University of Leeds
+  * School of Computer Science, University of Leeds
 
 * 2016-2023: Reader in Real-Time Systems
   * Department of Computer Science, University of York
