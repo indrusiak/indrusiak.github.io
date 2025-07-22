@@ -36,9 +36,54 @@ Research projects
 * Mapping heuristics for time-predictable multi-core platforms based on Networks-on-Chip (British Council, 2010-2011), principal investigator
 * MPSoCMap - Application Modelling and Mapping onto Multiprocessor System-on-Chip Platforms (DFG German Research Foundation, 2009-2011), principal investigator
 
-
 Advisory boards
 ======
 * ADMORPH - Towards Adaptively Morphing Embedded Systems (EU H2020, 2019-2023)
 * CREDES - Centre of Research Excellence in Dependable Embedded Systems (EU FP7, 2009-2011)
+
+
+Current and past research partners
+======
+* Companies, NGOs and research centers
+  * Arm - Cambridge, England
+  * ARDC - USA
+  * ONA - Durango, Spain
+  * Electrolux - Porcia, Italy
+  * OAS - Bremen, Germany
+  * ATB - Bremen, Germany
+  * BAE Systems
+  * The Open Group
+  * Bosch Corporate Research - Stuttgart, Germany
+  * Airbus - Filton, UK
+  * High Performance Computing Center Stuttgart (HLRS) - Stuttgart, Germany
+  * Rheon Media - London, UK
+  * SOFTEAM - Paris, France
+  * TXT Group - Milan, Italy
+  * EADS - Ulm, Germany
+  * Fujitsu Microelectronics Europe - Langen & Munich, Germany
+  * VITRONIC GmbH - Wiesbaden, Germany
+  * Uninova - Caparica, Portugal
+  * Hasso-Plattner-Institut - Potsdam, Germany
+
+* Universities
+  * Dipartimento di Ingegneria dell'Informazione - University of Pisa - Pisa, Italy
+  * Institute of Computer and Network Engineering - Technische Universitaet Braunschweig - Braunschweig, Germany
+  * Embedded Systems for Space Applications - UFSC University - Florianopolis, Brazil
+  * LIRMM Laboratory - University of Montpellier 2 - Montpellier, France
+  * CISTER Research Centre - Polytechnic Institute of Porto - Porto, Portugal
+  * GAPH - PUCRS University - Porto Alegre, Brazil
+  * CEI - Polytechnic University of Madrid - Madrid, Spain
+  * Department of Computer Engineering - Tallinn University of Technology - Tallinn, Estonia
+  * Institute of Informatics - UFRGS University - Porto Alegre, Brazil
+  * Integrated Digital Systems - University of Bremen - Bremen, Germany
+  * Microelectronic Systems Institute - Technische Universitaet Darmstadt - Darmstadt, Germany
+  * Department of Computer Systems - Tampere University of Technology - Tampere, Finland
+  * KTH Information and Communication Technology - Royal Institute of Technology - Stockholm, Sweden
+  * Department of Electronics and Information - Politecnico di Milano - Milan, Italy
+
+
+
+
+
+
 
